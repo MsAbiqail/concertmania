@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">concertMania</string>
+    <string name="title_activity_register_activvity">RegisterActivvity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_list_simple">list\n</string>
+    <string name="title_activity_list_list">List</string>
+    <string name="title_activity_simple_list">SimpleListActivity</string>
+    <string name="title_activity_custom_list">CustomList</string>
+</resources>
